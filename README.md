@@ -12,4 +12,7 @@ In our visualizations, the vertices in our network will represent Facebook users
 
 ## 2. Did you use a subset of the data? If so, what was it?
 
-No
+Yes, I want to know what is the gender of the users with the highest degree in the graph?
+
+## 3. Are there any particular aspects of your visualization to which you would like to bring attention?
+
