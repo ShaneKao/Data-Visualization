@@ -16,3 +16,4 @@ Yes, I want to know what is the gender of the users with the highest degree in t
 
 ## 3. Are there any particular aspects of your visualization to which you would like to bring attention?
 
+![plot](https://raw.githubusercontent.com/ShaneKao/Data-Visualization/master/Rplot01.png)
