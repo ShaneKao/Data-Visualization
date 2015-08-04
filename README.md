@@ -1,6 +1,6 @@
 # Data-Visualization
 
-1. What is the data that you chose? Why?
+## 1. What is the data that you chose? Why?
 
 For this assignment, we will visualize social networking data using anonymized data from Facebook, 
 
